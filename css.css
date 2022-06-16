@@ -1,0 +1,25 @@
+@charset "utf-8";
+/*CSS Document */
+p {
+color: blue;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "setif";
+font-size: 16px;
+line height: 18px
+widht: 600px
+background color: green;
+padding: 20px;
+ }
+h1, h2 {
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color: pink;
+}
+span(color: rgb(255, 0, 255);)
+body{
+background-image: url("slika1807.jpg");
+}
+img {
+	height: 400px;
+}
+video {
+	height: 400px
+	}
